@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MissinLinkActivity!</string>
+    <string name="app_name">MissinLink</string>
+    <string name="prompt">Select A Song</string>
+    <string-array name="entries">
+        <item>Rated XXX</item>
+        <item>#TwitterSong</item>
+        <item>Lets Smoke This</item>
+        <item>S.E.X.ting</item>
+        <item>Enjoy the Show</item>
+        <item>Candy Girl</item>
+        <item>#WYWGN</item>
+        
+        
+       </string-array>
+    
+</resources>
